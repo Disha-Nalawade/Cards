@@ -1,0 +1,69 @@
+.b1_class {
+  background-color: #ccf2ff;
+  width: 180px;
+  padding: 20px 10px;
+  border-radius: 20px;
+  border: 4px double #1ac6ff;
+  margin: 20px;
+}
+
+.b1 {
+  border-radius: 30px;
+  display: block;
+  margin: 0px auto;
+}
+.btn_card_1 {
+  width: 80px;
+  background-color: #ff5c33;
+  border-radius: 20px;
+  border: none;
+  padding: 12px;
+  display: block;
+  margin: 0px auto;
+}
+.b2_class {
+  background-color: #ccf2ff;
+  width: 180px;
+  padding: 20px 10px;
+  border-radius: 20px;
+  border: 4px double #1ac6ff;
+  margin: 20px;
+}
+
+.b2 {
+  border-radius: 30px;
+  display: block;
+  margin: 0px auto;
+}
+.btn_card_2 {
+  width: 80px;
+  background-color: #ff5c33;
+  border-radius: 20px;
+  border: none;
+  padding: 12px;
+  display: block;
+  margin: 0px auto;
+}
+.b3_class {
+  background-color: #ccf2ff;
+  width: 180px;
+  padding: 20px 10px;
+  border-radius: 20px;
+  border: 4px double #1ac6ff;
+  margin: 20px;
+}
+
+.b3 {
+  border-radius: 30px;
+  display: block;
+  margin: 0px auto;
+}
+.btn_card_3 {
+  width: 80px;
+  background-color: #ff5c33;
+  border-radius: 20px;
+  border: none;
+  padding: 12px;
+  display: block;
+  margin: 0px auto;
+}
